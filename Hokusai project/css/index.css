@@ -1,0 +1,22 @@
+.navbar-expand-sm{
+    background-color: #dfc5a4;
+}
+.carousel > .carousel-inner > .carousel-item > img{
+    width:400px; /* Yeap you can change the width and height*/
+    height:700px;
+    padding-top: 100px;
+    
+}
+.carousel{
+    padding-top: 10px;
+}
+.nav-link{
+font-size: x-large;
+font-family:Arial, Helvetica, sans-serif;
+font-style: oblique;
+color: #627d9a;
+}
+.tab-content> .container{
+color: #627d9a;
+font-size: x-large;
+}
